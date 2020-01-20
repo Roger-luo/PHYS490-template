@@ -1,7 +1,7 @@
-# Assignment <number, e.g 1>
+# Assignment *number, e.g 1*
 
-- name: <your name>
-- student ID: <your student ID>
+- name: *your name*
+- student ID: *your student ID*
 
 ## Dependencies
 
